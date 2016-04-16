@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://interblock.com.br
+title: INTERBLOCK
+email: suporte@interblock.com
+author: Weslei Freitas
+#description: Interblock Sistemas de Proteção para Veículos.
+description: Interblock Sistemas de Proteção para Veículos.
+copyright: 'Copyright &copy; 2016 Interblock. All Rights Reserved.'
+credits: ''
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+#social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: linkedin
+#    url: 
